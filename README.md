@@ -51,7 +51,22 @@ IEE proceedings F (radar and signal processing). Vol. 140. No. 2. IET Digital Li
 
 ### 3. Create something interesting with our anonymized pre- and post-workshop survey results (Thor Wikfeldt)
 
-Description coming up ...
+When participants sign up for CodeRefinery workshops, they are asked to fill 
+a pre-workshop survey [1]. The idea behind this survey is for the instructors 
+to get an idea of who the participants are, what their background and experience 
+is and what they are most interested in learning about. 
+
+3-6 months after attending a workshop, past workshop participants are asked to fill 
+another post-workshop survey which explores what, if anything, has changed in the 
+way they develop code for research as a result of attending a workshop [2].
+
+After 25 delivered workshops with over 600 participants, we have plenty of 
+interesting data, but so far this data has only been analyzed superficially. 
+In this project, we will dive into the details and bring to light all the
+interesting trends and hidden correlations which may be hiding in the survey results!
+
+[1] https://github.com/coderefinery/pre-workshop-survey
+[2] https://github.com/coderefinery/post-workshop-survey
 
 
 ### 4. Update the style of CodeRefinery lessons to match https://github.com/carpentries/styles/ (Radovan Bast)
