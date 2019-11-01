@@ -57,7 +57,10 @@ Description coming up ...
 
 ### 4. Update the style of CodeRefinery lessons to match https://github.com/carpentries/styles/ (Radovan Bast)
 
-Description coming up ...
+At some point CodeRefinery lessons had the same styling as Carpentries lessons
+but both evolved a bit since and I think CodeRefinery lessons could benefit
+from a face-lift. Not only to make the material look better, but also to make
+it look more familiar to the Carpentries community and simplify uptake there.
 
 
 ### 5. Create a web app which can update forked branches (Radovan Bast)
