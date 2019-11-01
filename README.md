@@ -48,3 +48,22 @@ Proceedings of the IEEE 95.5 (2007): 899-924.
 
 [3] Gordon, Neil J., David J. Salmond, and Adrian FM Smith. "Novel approach to nonlinear/non-Gaussian Bayesian state estimation."
 IEE proceedings F (radar and signal processing). Vol. 140. No. 2. IET Digital Library, 1993.
+
+
+### 3. Create something interesting with our anonymized pre- and post-workshop survey results (Thor Wikfeldt)
+
+Description coming up ...
+
+
+### 4. Update the style of CodeRefinery lessons to match https://github.com/carpentries/styles/ (Radovan Bast)
+
+Description coming up ...
+
+
+### 5. Create a web app which can update forked branches (Radovan Bast)
+
+Creating forks on GitHub is simple but updating forks is not easy for persons
+who are not at familiar or comfortable with the command line. Here we would
+create an app to which one could log in with GitHub and refresh forks with a
+button.  For simplicity we would allow updating forked branches only if a
+fast-forward is possible.
