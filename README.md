@@ -63,7 +63,7 @@ Description coming up ...
 ### 5. Create a web app which can update forked branches (Radovan Bast)
 
 Creating forks on GitHub is simple but updating forks is not easy for persons
-who are not at familiar or comfortable with the command line. Here we would
-create an app to which one could log in with GitHub and refresh forks with a
-button.  For simplicity we would allow updating forked branches only if a
+who are not familiar or comfortable with the command line. Here we would
+create an app to which one could log in using GitHub and refresh forks with a
+button click. For simplicity we would allow updating forked branches only if a
 fast-forward is possible.
