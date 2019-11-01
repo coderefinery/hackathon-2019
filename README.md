@@ -11,19 +11,18 @@ Event website: https://coderefinery.org/events/2019-11-06-stockholm/
 
 ### 1. Improve training material for inter-service-communication on Kubernetes (Carsten Thiel and colleagues)
 
-This project is about improving [CESSDA](https://www.cessda.eu) training
-material for an internal training in December. This is mostly focussed around
-microservice architecture and inter-service-communication as well as automated
-testing with quality gates/linting and ultimately running on our Kubernetes
-setup.  The plan is to do this based on a virtual
-[CESSDA](https://www.cessda.eu) Café consisting of a cashier, coffee
-machine(s), and a waiter.  The components are ready and at the December
-training participants will bring their own dockerised coffee machine along and
-then deploy it in a continuous integration service with tests and running in
-the Café by the end.
+This project is about improving [CESSDA](https://www.cessda.eu) training material for 
+[an internal training in December](https://www.cessda.eu/News-Events/Events/CESSDA-Technical-Infrastructure-Training-Day). This is mostly focussed on microservice architecture and inter-service-communication as well as 
+on automated testing with quality gates & linting.
+The services will be dockerised and running on Kubernetes.
 
-The goal is to make this material as re-usable as possible and would welcome
-collaboration on the less CESSDA-specific (i.e. our Kubernetes) parts.
+The plan is to do this based on a virtual [CESSDA](https://www.cessda.eu) Café 
+consisting of a cashier, coffee machine(s), and a waiter, for which we have example components ready.
+At the December training, participants will bring along their own dockerised coffee machines,
+run them through our continuous integration service and deploy them to the full Café.
+
+The goal is to make this material as re-usable as possible also outside of CESSDA.
+We would therefore welcome collaboration, in particular on the generic parts.
 
 
 ### 2. Efficient implementation of the bootstrap particle filter in Julia using StaticArrays (Samuel Wiqvist)
