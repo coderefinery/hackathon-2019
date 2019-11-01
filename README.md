@@ -70,3 +70,6 @@ who are not familiar or comfortable with the command line. Here we would
 create an app to which one could log in using GitHub and refresh forks with a
 button click. For simplicity we would allow updating forked branches only if a
 fast-forward is possible.
+
+Tech stack to be discussed but would probably involve https://vuejs.org
+and https://graphql.org/learn/.
