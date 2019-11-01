@@ -9,7 +9,7 @@ Event website: https://coderefinery.org/events/2019-11-06-stockholm/
 
 ## Projects
 
-### Improve training material for inter-service-communication on Kubernetes (Carsten Thiel and colleagues)
+### 1. Improve training material for inter-service-communication on Kubernetes (Carsten Thiel and colleagues)
 
 This project is about improving [CESSDA](https://www.cessda.eu) training
 material for an internal training in December. This is mostly focussed around
