@@ -66,6 +66,7 @@ In this project, we will dive into the details and bring to light all the
 interesting trends and hidden correlations which may be hiding in the survey results!
 
 [1] https://github.com/coderefinery/pre-workshop-survey
+
 [2] https://github.com/coderefinery/post-workshop-survey
 
 
