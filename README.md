@@ -92,3 +92,16 @@ and https://graphql.org/learn/.
 ### 6. Parallel computing on HPC systems (Emiliano Molinaro)
 
 A usual problem for a researcher working on heavy computational workflows is to scale up her/his calculation on multiple devices. Common practise is to do the development on premises and deploy the code on an HPC cluster. Here we would like to discuss examples in which the same code can be parallelized with only minor changes, keeping a SIMD/SPMD programming style. Some starting points could be: 1) how to parallelize C/C++/Fortran code with MPI on a cluster; 2) distributed calculation on multiple nodes in Python using Dask; 3) compare different parallel options for R (doSNOW, doMC, RMPI, mclapply, parLapply); 4) how to use a Spark cluster for parallel processing of big datasets.
+
+
+### 7. Make lessons more relevant for R community (Sabry Razick)
+
+R has the most advantages when it comes to data exploration with least coding
+skills. So I want to try to make a short exploring-data-with-R course where we
+can use snippets to integrate with Git and documentation.
+
+There are some topics that would be more accessible to R users if they were
+rewritten or adapted to R based tools. As an example lots of functionality of
+Jupyter is available as notebooks via R Markdown. In addition there are plenty
+of other R markdown based formats that is of support to attempts of using
+literate programming and/or generating reports.
