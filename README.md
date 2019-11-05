@@ -106,3 +106,13 @@ rewritten or adapted to R based tools. As an example lots of functionality of
 Jupyter is available as notebooks via R Markdown. In addition there are plenty
 of other R markdown based formats that is of support to attempts of using
 literate programming and/or generating reports.
+
+### 8. Terminal
+
+We have tool that provides a way for the learners to see what were the commands
+used by the instructor through a browser.
+e.g http://folk.uio.no/sabryr/history.html. This is useful when the learners
+fall behind. This is in a development stage and has basic guard against accidental
+typing in a password for example.  Biggest obstacle is that for this tool we need
+a web server already configured. Objective of the hackathon is to make this tool
+usable more universally. What we have now https://github.com/Sabryr/Tavatar
